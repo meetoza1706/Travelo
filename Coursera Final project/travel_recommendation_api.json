@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Beach Paradise",
+        "description": "A beautiful beach with white sand and crystal clear water.",
+        "imageUrl": "beach.jpg"
+    },
+    {
+        "name": "Ancient Temple",
+        "description": "A historic temple with stunning architecture.",
+        "imageUrl": "temple.jpg"
+    },
+    {
+        "name": "Country Vista",
+        "description": "A picturesque view of the countryside.",
+        "imageUrl": "country.jpg"
+    }
+]
